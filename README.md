@@ -12,3 +12,7 @@ An iPhone app that lets you hear where things are around you through headphones.
 - Follow mode: point the camera at a person or marker and hear where they are as you walk
 - Triple-tap to start or pause following, with spoken confirmation
 - Optional cues that make sounds above and below you easier to tell apart
+
+## License
+
+Copyright © 2026 Popsicl333. All rights reserved — see [LICENSE](LICENSE).
